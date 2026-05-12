@@ -20,7 +20,7 @@ spec:
     spec:
       containers:
       - name: register-app
-        image: sandeepnirwani/register-app:1
+        image: sandeep3333/register-app:7
 
         ports:
         - containerPort: 8080
